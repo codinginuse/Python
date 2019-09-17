@@ -56,7 +56,7 @@ for i in title:
     print(i.attrs['title'])
     print()
 
-# 리스트의 기본 구조
+# 리스트의 기본 구조.
 addr = [i.attrs['title']]
 addr.append('주소')
 print(addr)
